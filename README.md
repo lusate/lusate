@@ -6,7 +6,7 @@
 
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to `5` for `normal` & `donut` and `6` for other layouts.
 
-<a href="https://github.com/lusate"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/lusateㅇㄹ"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusateㅇㄹ&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
