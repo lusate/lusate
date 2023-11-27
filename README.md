@@ -1,4 +1,5 @@
-### Hi there 👋
+👋
+![lusate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&theme=radical)
 
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
