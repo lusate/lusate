@@ -22,33 +22,33 @@ You can use the `&layout=compact` option to change the card design.
 
 You can use the `&layout=donut` option to change the card design.
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=donut)](https://github.com/lusate/github-readme-stats)
+
 
 ### Donut Vertical Chart Language Card Layout
 
 You can use the `&layout=donut-vertical` option to change the card design.
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=donut-vertical)](https://github.com/lusate/github-readme-stats)
+
 
 ### Pie Chart Language Card Layout
 
 You can use the `&layout=pie` option to change the card design.
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=pie)](https://github.com/lusate/github-readme-stats)
+
 
 ### Hide Progress Bars
 
 You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&hide_progress=true)
+
 
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
