@@ -1,6 +1,8 @@
 👋
 ![lusate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&theme=radical)
 
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
