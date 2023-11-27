@@ -15,37 +15,12 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact)
-
-
-### Donut Chart Language Card Layout
-
-You can use the `&layout=donut` option to change the card design.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=donut)](https://github.com/lusate/github-readme-stats)
-
-
-### Donut Vertical Chart Language Card Layout
-
-You can use the `&layout=donut-vertical` option to change the card design.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=donut-vertical)](https://github.com/lusate/github-readme-stats)
-
-
-### Pie Chart Language Card Layout
-
-You can use the `&layout=pie` option to change the card design.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=pie)](https://github.com/lusate/github-readme-stats)
-
+[![lusate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lusate\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/lusate/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![lusate's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lusate\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/lusate/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ### Hide Progress Bars
 
 You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&hide_progress=true)
 
