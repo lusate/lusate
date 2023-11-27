@@ -6,23 +6,7 @@
 
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to `5` for `normal` & `donut` and `6` for other layouts.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&langs_count=8)
-
-
-### Compact Language Card Layout
-
-You can use the `&layout=compact` option to change the card design.
-
-
-[![lusate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lusate\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/lusate/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![lusate's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lusate\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/lusate/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
-### Hide Progress Bars
-
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&langs_count=10&layout=compact&theme=dark)](https://github.com/lusate/lusate)
-
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
