@@ -6,17 +6,17 @@
 
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to `5` for `normal` & `donut` and `6` for other layouts.
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&langs_count=8)
+
 
 ### Compact Language Card Layout
 
 You can use the `&layout=compact` option to change the card design.
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact)
+
 
 ### Donut Chart Language Card Layout
 
