@@ -20,9 +20,8 @@ You can use the `&layout=compact` option to change the card design.
 
 ### Hide Progress Bars
 
-You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&hide_progress=true)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&langs_count=10&layout=compact&theme=dark)](https://github.com/lusate/lusate)
 
 
 <!--
