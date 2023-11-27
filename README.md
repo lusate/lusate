@@ -2,8 +2,53 @@
 ![lusate's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=donut)](https://github.com/lusate/github-readme-stats)
+### Show more languages
 
+You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to `5` for `normal` & `donut` and `6` for other layouts.
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+```
+
+### Compact Language Card Layout
+
+You can use the `&layout=compact` option to change the card design.
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+```
+
+### Donut Chart Language Card Layout
+
+You can use the `&layout=donut` option to change the card design.
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+### Donut Vertical Chart Language Card Layout
+
+You can use the `&layout=donut-vertical` option to change the card design.
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+### Pie Chart Language Card Layout
+
+You can use the `&layout=pie` option to change the card design.
+
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+### Hide Progress Bars
+
+You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+```
 
 <!--
 **lusate/lusate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
