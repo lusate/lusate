@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/java-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+  <img src="https://img.shields.io/badge/java-색상?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact&theme=buefy&hide_border=true" /></a> |
