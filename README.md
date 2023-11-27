@@ -1,7 +1,6 @@
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
 <code><img height="20" alt="jpa" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jpa/jpa.png"></code>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&hide=spring,html)
 
 
 | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact&theme=buefy&hide_border=true" /></a> |
