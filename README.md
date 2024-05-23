@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rayrayr)](https://solved.ac/rayrayr/)
+
 | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusate&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lusate/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusate&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
